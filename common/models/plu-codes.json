@@ -1,7 +1,7 @@
 {
-  "name": "Codes",
+  "name": "pluCodes",
   "base": "PersistedModel",
-  "idInjection": false,
+  "idInjection": true,
   "options": {
     "validateUpsert": true
   },
@@ -54,8 +54,7 @@
       "type": "date"
     },
     "GPC": {
-      "type": "number",
-      "required": true
+      "type": "number"
     },
     "image": {
       "type": "string"

@@ -13,7 +13,7 @@
       "./mixins"
     ]
   },
-  "Codes": {
+  "pluCodes": {
     "dataSource": "mongo",
     "public": true
   }
